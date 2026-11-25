@@ -1,0 +1,4 @@
+5678,farah,ra@gmail,0199,Female,33,mirpurr,General Member
+123,Nawrin,tas@gmail,012345,Female,20,dhaka,General Member
+222,hasan,has@gmail,01818,Male,11,uttara,Exclusive Member
+1234,Swadhin123,nai,0198,Male,101,Sherpur,General Member
